@@ -7,10 +7,7 @@
 A simple and stylish Windows desktop application that translates Filipino text into a custom Baybayin-inspired script based on a unique set of rules. This project was built using C# and Windows Forms with a modern, dark-mode interface.
 
 ## Screenshot
-
-*You should replace the image below with a real screenshot of your application! Use the Windows Snipping Tool (or Shift + Win + S) to capture your app, save it, and upload it to your repository.*
-
-![Application Screenshot](httpsd://i.imgur.com/your-screenshot-url.png)
+![Application Screenshot](https://imgur.com/a/v1P40nV)
 
 ## Features
 
@@ -27,7 +24,7 @@ A simple and stylish Windows desktop application that translates Filipino text i
 
 ## Installation and Usage
 
-1.  Go to the **[Releases Page](https://github.com/YOUR_USERNAME/Text-to-Baybayin-App/releases)**. 
+1.  Go to the **[Releases Page](https://github.com/eautify/Text-to-Baybayin-App/releases)**. 
     *(Important: Replace YOUR_USERNAME with your actual GitHub username!)*
 2.  Under the latest release, download the `.zip` file (e.g., `Text-to-Baybayin-Installer-v1.0.zip`).
 3.  Unzip the downloaded folder to a location on your computer.
@@ -64,7 +61,7 @@ This project is licensed under the MIT License. See the details below.
 
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 eautify
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
