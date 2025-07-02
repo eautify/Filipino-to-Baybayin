@@ -8,3 +8,15 @@ D:\Default Directory\Desktop\Personal Projects\Text to Baybayin\Text to Baybayin
 D:\Default Directory\Desktop\Personal Projects\Text to Baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.exe
 D:\Default Directory\Desktop\Personal Projects\Text to Baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.pdb
 D:\Default Directory\Desktop\Personal Projects\Text to Baybayin\Text to Baybayin\obj\Debug\Text_to_Baybayin.Main.resources
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.exe
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.pdb
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.csproj.AssemblyReference.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.exe.config
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Debug\Text to Baybayin.exe.config
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Debug\Text to Baybayin.exe
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Debug\Text to Baybayin.pdb
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text_to_Baybayin.Main.resources
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text_to_Baybayin.Properties.Resources.resources
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.csproj.GenerateResource.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Debug\Text to Baybayin.csproj.CoreCompileInputs.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Debug\assets\fonts\BagwisBaybayin.ttf
