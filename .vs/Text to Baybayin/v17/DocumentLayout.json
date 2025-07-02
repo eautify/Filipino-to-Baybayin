@@ -7,11 +7,7 @@
       "RelativeMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|solutionrelative:text to baybayin\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|d:\\default directory\\desktop\\filipino-to-baybayin\\text to baybayin\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|solutionrelative:text to baybayin\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|d:\\default directory\\desktop\\filipino-to-baybayin\\text to baybayin\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|D:\\Default Directory\\Desktop\\filipino-to-baybayin\\text to baybayin\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0079FA9B-7AE6-4343-93F0-865972CCCEC2}|Text to Baybayin\\Text to Baybayin.csproj|solutionrelative:text to baybayin\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.Designer.cs",
-              "DocumentMoniker": "D:\\Default Directory\\Desktop\\filipino-to-baybayin\\Text to Baybayin\\Main.Designer.cs",
-              "RelativeDocumentMoniker": "Text to Baybayin\\Main.Designer.cs",
-              "ToolTip": "D:\\Default Directory\\Desktop\\filipino-to-baybayin\\Text to Baybayin\\Main.Designer.cs",
-              "RelativeToolTip": "Text to Baybayin\\Main.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:41:42.622Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,14 +28,15 @@
               "RelativeDocumentMoniker": "Text to Baybayin\\Main.cs",
               "ToolTip": "D:\\Default Directory\\Desktop\\filipino-to-baybayin\\Text to Baybayin\\Main.cs",
               "RelativeToolTip": "Text to Baybayin\\Main.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAuwLMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T02:22:06.12Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.cs [Design]",
               "DocumentMoniker": "D:\\Default Directory\\Desktop\\filipino-to-baybayin\\Text to Baybayin\\Main.cs",
               "RelativeDocumentMoniker": "Text to Baybayin\\Main.cs",

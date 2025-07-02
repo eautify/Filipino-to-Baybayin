@@ -1,0 +1,15 @@
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Release\Text to Baybayin.exe.config
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Release\Text to Baybayin.exe.manifest
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Release\Text to Baybayin.application
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Release\Text to Baybayin.exe
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\bin\Release\Text to Baybayin.pdb
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.csproj.AssemblyReference.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text_to_Baybayin.Main.resources
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text_to_Baybayin.Properties.Resources.resources
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.csproj.GenerateResource.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.csproj.CoreCompileInputs.cache
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.exe.manifest
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.application
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.exe
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.pdb
+D:\Default Directory\Desktop\filipino-to-baybayin\Text to Baybayin\obj\Release\Text to Baybayin.exe.config

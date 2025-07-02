@@ -61,26 +61,47 @@ namespace Text_to_Baybayin
 
         private void LoadCustomFont()
         {
+            // The new method to load the font from embedded resources
             try
             {
-                // Using a more reliable path starting from the application's directory
-                string customFontFilePath = Path.Combine(Application.StartupPath, "assets", "fonts", "BagwisBaybayin.ttf");
-                if (File.Exists(customFontFilePath))
+                // Get the current assembly (your .exe file)
+                var assembly = System.Reflection.Assembly.GetExecutingAssembly();
+
+                // The resource name is constructed as: YourDefaultNamespace.FolderName.FileName
+                // In your case: Text_to_Baybayin.assets.fonts.BagwisBaybayin.ttf
+                string resourceName = "Text_to_Baybayin.assets.fonts.BagwisBaybayin.ttf";
+
+                using (Stream fontStream = assembly.GetManifestResourceStream(resourceName))
                 {
+                    if (fontStream == null)
+                    {
+                        MessageBox.Show("Embedded font resource not found! Please check the resource name: " + resourceName, "Font Error");
+                        return;
+                    }
+
+                    // Create a memory buffer for the font data
+                    byte[] fontData = new byte[fontStream.Length];
+                    fontStream.Read(fontData, 0, (int)fontStream.Length);
+
                     var privateFontCollection = new PrivateFontCollection();
-                    privateFontCollection.AddFontFile(customFontFilePath);
-                    // The font for textBox2 is set here, but we will adjust its color and background in ApplyStyling()
+
+                    // Unsafe code block to load the font from memory
+                    unsafe
+                    {
+                        // Pin the memory address of the font data
+                        fixed (byte* pFontData = fontData)
+                        {
+                            privateFontCollection.AddMemoryFont((IntPtr)pFontData, fontData.Length);
+                        }
+                    }
+
                     var customFont = new Font(privateFontCollection.Families[0], 20);
                     textBox2.Font = customFont;
-                }
-                else
-                {
-                    MessageBox.Show("Font file not found! Please check the path: " + customFontFilePath, "Font Error");
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error loading custom font: " + ex.Message, "Font Error");
+                MessageBox.Show("Error loading embedded font: " + ex.Message, "Font Error");
             }
         }
 
