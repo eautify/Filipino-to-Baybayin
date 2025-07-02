@@ -7,7 +7,7 @@
 A simple and stylish Windows desktop application that translates Filipino text into a custom Baybayin-inspired script based on a unique set of rules. This project was built using C# and Windows Forms with a modern, dark-mode interface.
 
 ## Screenshot
-![Application Screenshot](https://imgur.com/a/v1P40nV)
+![Application Screenshot](https://i.imgur.com/ClHZ14D.png)
 
 ## Features
 
